@@ -1,0 +1,13 @@
+
+ˆ
+java:S1319X"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".( õÚçûÿÿÿÿ
+ƒ
+java:S1319x"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ü­¬Æ
+k	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒï±—ýÿÿÿÿ
+m
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(÷™üŽüÿÿÿÿ
+=
+java:S1125?"'Remove the unnecessary boolean literal.(ÜšÙ˜
+B
+java:S1125H"'Remove the unnecessary boolean literal.(×ºæ·ÿÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(ÞìïÖúÿÿÿÿ

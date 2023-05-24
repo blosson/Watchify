@@ -1,0 +1,17 @@
+
+c
+java:S1192#"HDefine a constant instead of duplicating this literal "access" 13 times.(Ğí¦îÿÿÿÿÿ
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( §ç°ıÿÿÿÿ
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Õ¾üÿÿÿÿ
+c	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŸôÜ
+h	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦äµşüÿÿÿÿ
+c	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¥ë
+h	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ì¬•ÿÿÿÿÿ
+c	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¯“ß
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åµ·±ÿÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆúÌá
+R	java:S125"<This block of commented-out lines of code should be removed.(òá¸†
+i	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß­×—øÿÿÿÿ
+d	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²øŞ€
+i	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¬’—ûÿÿÿÿ
+i	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ĞÌ¹ıÿÿÿÿ

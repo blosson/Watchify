@@ -1,0 +1,9 @@
+
+x
+java:S1488,"]Immediately return this expression instead of assigning it to the temporary variable "awsS3".(çîïøşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥µó¶
+U	java:S899?";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S4042?"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+A
+java:S1075C"&Remove this hard-coded path-delimiter.(ë¿Ãõşÿÿÿÿ

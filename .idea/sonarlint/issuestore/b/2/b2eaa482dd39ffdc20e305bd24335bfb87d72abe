@@ -1,0 +1,9 @@
+
+T
+java:S1854!"9Remove this useless assignment to local variable "awsS3".(è·Ñ‘ûÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "user".(Í¡Öˆøÿÿÿÿ
+D
+java:S1481")Remove this unused "user" local variable.(Í¡Öˆøÿÿÿÿ
+E
+java:S1481!"*Remove this unused "awsS3" local variable.(è·Ñ‘ûÿÿÿÿ

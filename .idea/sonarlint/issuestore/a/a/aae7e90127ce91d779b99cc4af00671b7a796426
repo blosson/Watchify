@@ -1,0 +1,7 @@
+
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÝÇÄ
+k	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ô‡îùÿÿÿÿ
+N
+java:S18548"8Remove this useless assignment to local variable "hash".(§Èÿå
+?
+java:S14818")Remove this unused "hash" local variable.(§Èÿå

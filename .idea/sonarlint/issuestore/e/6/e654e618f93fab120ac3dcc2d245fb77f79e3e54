@@ -1,0 +1,11 @@
+
+n	java:S1355"YReduce the total number of break and continue statements in this loop to use at most one.(Ş„şŒ
+n	java:S135j"YReduce the total number of break and continue statements in this loop to use at most one.(Ş„şŒ
+W
+java:S1854V"<Remove this useless assignment to local variable "response".(­Ç×ıÿÿÿÿ
+H
+java:S1481V"-Remove this unused "response" local variable.(­Ç×ıÿÿÿÿ
+X
+java:S1854…"<Remove this useless assignment to local variable "response".(­Ç×ıÿÿÿÿ
+I
+java:S1481…"-Remove this unused "response" local variable.(­Ç×ıÿÿÿÿ

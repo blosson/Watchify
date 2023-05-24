@@ -1,0 +1,17 @@
+
+s	java:S135f"YReduce the total number of break and continue statements in this loop to use at most one.(¥œêÿÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ĞÇ­»ıÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(©´Ã
+V	java:S125K"<This block of commented-out lines of code should be removed.(òÔ«Èüÿÿÿÿ
+V
+java:S1854`";Remove this useless assignment to local variable "endDate".(„ë ÷ıÿÿÿÿ
+Z
+java:S1854l"?Remove this useless assignment to local variable "turnContent".(æñ¢Ğûÿÿÿÿ
+G
+java:S1481`",Remove this unused "endDate" local variable.(„ë ÷ıÿÿÿÿ
+V	java:S125a"<This block of commented-out lines of code should be removed.(ËğÚÅÿÿÿÿÿ
+K
+java:S1481l"0Remove this unused "turnContent" local variable.(æñ¢Ğûÿÿÿÿ
+L
+java:S1068"6Remove this unused "calenderRepository" private field.(”úá°
